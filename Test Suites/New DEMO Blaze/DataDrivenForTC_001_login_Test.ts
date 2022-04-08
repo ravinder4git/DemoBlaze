@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataDrivenForTC_001_login_Test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>7116aa4a-3389-408f-b783-baa870899b6a</testSuiteGuid>
+   <testCaseLink>
+      <guid>2252fe6f-5e6e-4b4c-b184-6e6f17891d80</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_001_login_Test</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>717f3909-88d9-4392-bd13-c6814de93644</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DemoBlaze Test Data/TC_001_login_Test</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>717f3909-88d9-4392-bd13-c6814de93644</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>d1920de4-a8f9-4e26-81dc-b04b9ab7189f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>717f3909-88d9-4392-bd13-c6814de93644</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>0c80a6f3-a64e-4f28-88e9-0e197a28e1be</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

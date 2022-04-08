@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_login_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>839f4b95-ac4b-4ca2-a418-e59488481105</testCaseGuid>
+   <variable>
+      <defaultValue>'apache'</defaultValue>
+      <description></description>
+      <id>d1920de4-a8f9-4e26-81dc-b04b9ab7189f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'CbTbI/dOXgw='</defaultValue>
+      <description></description>
+      <id>0c80a6f3-a64e-4f28-88e9-0e197a28e1be</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
